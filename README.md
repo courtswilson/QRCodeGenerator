@@ -26,3 +26,9 @@ The ensure that your system has the right requirements to run this application, 
 - `sudo apt install python3-pip`
 - `pip install qrcode`
 - `pip install Pillow`
+
+## References
+
+This program makes use of information and packages referenced below:
+ - [QR Code Library](https://pypi.org/project/qrcode/)
+   - GitHub: [Python QR Code](https://github.com/lincolnloop/python-qrcode)
